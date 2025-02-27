@@ -11,10 +11,10 @@
 
 ### AI大众应用
 
-![大众应用](\_static\wechat\public.png)
+![大众应用](./_static/wechat/public.png)
 
-![expert](D:\Projects\商业探索\opendocs\multi-project-docs\docs\_static\wechat\expert.png)
+![产品技术](./_static/wechat/public.png)
 
 ### AI专业技术
 
-![产品技术从业者](../_static/wechat/expert.png)
+![产品技术](./_static/wechat/expert.png)
