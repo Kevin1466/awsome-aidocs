@@ -19,7 +19,7 @@ source_suffix = {
 master_doc = "index"
 
 # 添加 Markdown 支持
-extensions = ["myst_parser"]
+extensions = ["sphinx_rtd_theme", "myst_parser"]
 
 # 配置 HTML 输出
 html_theme = "sphinx_rtd_theme"
