@@ -19,6 +19,8 @@
 1. [北大《DeepSeek与AIGC应用（PDF版）》](pku-deepseek/output1.pdf)、[北大《DeepSeek与AIGC应用（PPT版）》](pku-deepseek/output1.ppt)
 2. [北大《DeepSeek提示词工程和落地场景（PDF版）》](pku-deepseek/output2.pdf)、[北大《DeepSeek提示词工程和落地场景（PPT版）》](pku-deepseek/output2.ppt)
 
+网盘下载：[点击下载](https://pan.quark.cn/s/04684a05063b)
+
 
 
 ## 学习交流
