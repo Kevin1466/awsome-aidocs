@@ -9,15 +9,11 @@
 
 ## 资源下载
 
-### 清华
-
-1. [清华《DeepSeek：从入门到精通（PDF版）》](thu-deepseek/output5.pdf)
-2. [清华《DeepSeek：从入门到精通（PPT版）》](thu-deepseek/output5.ppt)
-
-### 北大
-
-1. [北大《DeepSeek与AIGC应用（PDF版）》](pku-deepseek/output1.pdf)、[北大《DeepSeek与AIGC应用（PPT版）》](pku-deepseek/output1.ppt)
-2. [北大《DeepSeek提示词工程和落地场景（PDF版）》](pku-deepseek/output2.pdf)、[北大《DeepSeek提示词工程和落地场景（PPT版）》](pku-deepseek/output2.ppt)
+|         | PDF                                                          | PPT                                                          |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 清华    | 清华《DeepSeek：从入门到精通（PDF版）》                      | 清华《DeepSeek：从入门到精通（PPT版）》                      |
+| 北大    | 北大《DeepSeek与AIGC应用（PDF版）》<br />北大《DeepSeek提示词工程和落地场景（PDF版）》 | 北大《DeepSeek与AIGC应用（PPT版）》<br />北大《DeepSeek提示词工程和落地场景（PPT版）》 |
+| more... | 欢迎共建共享AI学习资源                                       |                                                              |
 
 网盘下载：[点击下载](https://pan.quark.cn/s/04684a05063b)
 
