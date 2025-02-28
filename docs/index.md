@@ -34,3 +34,9 @@
 适合聊：实用技巧、变现方法、AI通识基础。
 
 ![大众应用](./_static/wechat/public.png)
+
+### 公众号
+
+in case you want,
+
+![coffee](./_static/wechat/coffee.jpg)
